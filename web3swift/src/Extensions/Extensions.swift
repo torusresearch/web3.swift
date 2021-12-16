@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import BigInt
+
 
 public protocol Web3Extendable {
     associatedtype T

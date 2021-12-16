@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import BigInt
+
 
 public class ERC165 {
     public let client: EthereumClient

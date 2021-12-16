@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import BigInt
+
 
 public enum EthereumTransactionReceiptStatus: Int {
     case success = 1

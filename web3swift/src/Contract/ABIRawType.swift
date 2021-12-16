@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import BigInt
+
 
 public enum ABIError: Error {
     case invalidSignature

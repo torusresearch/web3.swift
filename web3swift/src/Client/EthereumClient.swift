@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import BigInt
+
 
 public protocol EthereumClientProtocol {
     init(url: URL, sessionConfig: URLSessionConfiguration)

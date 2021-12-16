@@ -7,7 +7,7 @@
 //
 
 import XCTest
-import BigInt
+
 @testable import web3
 
 let tokenOwner = EthereumAddress("0x69F84b91E7107206E841748C2B52294A1176D45e")

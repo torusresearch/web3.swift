@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import BigInt
+
 
 public class ABIDecoder {
     typealias RawParsedABI = [[String]]

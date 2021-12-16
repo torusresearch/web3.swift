@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import BigInt
+
 
 public enum ERC20Functions {
     public struct name: ABIFunction {

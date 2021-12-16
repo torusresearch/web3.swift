@@ -8,7 +8,7 @@
 
 import XCTest
 @testable import web3
-import BigInt
+
 
 struct TransferMatchingSignatureEvent: ABIEvent {
     public static let name = "Transfer"

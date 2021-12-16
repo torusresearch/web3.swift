@@ -7,7 +7,7 @@
 //
 
 import XCTest
-import BigInt
+
 @testable import web3
 
 class ERC20Tests: XCTestCase {

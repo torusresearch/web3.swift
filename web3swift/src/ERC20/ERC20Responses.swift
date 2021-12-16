@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import BigInt
+
 
 public enum ERC20Responses {
     public struct nameResponse: ABIResponse, MulticallDecodableResponse {

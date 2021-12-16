@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import BigInt
+
 import GenericJSON
 
 /// A type value description

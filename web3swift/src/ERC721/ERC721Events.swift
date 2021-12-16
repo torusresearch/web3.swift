@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import BigInt
+
 
 public enum ERC721Events {
     public struct Transfer: ABIEvent {

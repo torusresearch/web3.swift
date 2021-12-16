@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import BigInt
+
 
 public typealias ENSRegistryResolverParameter = ENSContracts.ENSRegistryFunctions.resolver.Parameter
 

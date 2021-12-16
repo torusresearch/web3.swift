@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import BigInt
+
 
 public enum ERC721Responses {
     public struct balanceResponse: ABIResponse, MulticallDecodableResponse {

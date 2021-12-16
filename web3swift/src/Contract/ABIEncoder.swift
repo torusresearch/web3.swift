@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import BigInt
+
 
 public class ABIEncoder {
     public enum EncodedValue {

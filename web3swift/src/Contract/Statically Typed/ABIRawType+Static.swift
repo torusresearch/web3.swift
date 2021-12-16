@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import BigInt
+
 
 public protocol ABIType {
     static var rawType: ABIRawType { get }

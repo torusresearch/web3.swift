@@ -8,7 +8,7 @@
 
 import XCTest
 @testable import web3
-import BigInt
+
 
 class RLPTests: XCTestCase {
     

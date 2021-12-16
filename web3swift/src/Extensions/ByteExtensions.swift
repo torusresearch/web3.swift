@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import BigInt
+
 
 public extension Web3Extensions where Base == BigUInt {
     var bytes: [UInt8] {

@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import BigInt
+
 
 public class ERC20 {
     let client: EthereumClient

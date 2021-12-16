@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import BigInt
+
 
 public class ERC721: ERC165 {
     public func balanceOf(contract: EthereumAddress,

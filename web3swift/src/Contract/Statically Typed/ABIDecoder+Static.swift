@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import BigInt
+
 
 extension ABIDecoder {
     public typealias RawABI = String

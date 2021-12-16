@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import BigInt
+
 
 public protocol EthereumTransactionProtocol {
     init(from: EthereumAddress?, to: EthereumAddress, value: BigUInt?, data: Data?, nonce: Int?, gasPrice: BigUInt?, gasLimit: BigUInt?, chainId: Int?)

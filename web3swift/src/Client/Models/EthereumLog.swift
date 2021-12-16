@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import BigInt
+
 
 public struct EthereumLog: Equatable {
     public let logIndex: BigUInt?
