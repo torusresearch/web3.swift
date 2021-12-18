@@ -8,8 +8,6 @@
 
 import Foundation
 
-import GenericJSON
-
 /// A type value description
 public struct TypedVariable: Codable, Equatable {
     let name: String
