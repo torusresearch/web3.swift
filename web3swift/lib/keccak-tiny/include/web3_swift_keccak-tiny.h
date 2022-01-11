@@ -1,5 +1,5 @@
-#ifndef KECCAK_FIPS202_H
-#define KECCAK_FIPS202_H
+#ifndef WEB3_SWIFT_KECCAK_FIPS202_H
+#define WEB3_SWIFT_KECCAK_FIPS202_H
 #define __STDC_WANT_LIB_EXT1__ 1
 #include <stdint.h>
 #include <stdlib.h>

@@ -1,5 +1,5 @@
-#ifndef _AES_H_
-#define _AES_H_
+#ifndef _WEB3_SWIFT_AES_H_
+#define _WEB3_SWIFT_AES_H_
 
 #include <stdint.h>
 
@@ -86,4 +86,4 @@ void AES_CTR_xcrypt_buffer(struct AES_ctx* ctx, uint8_t* buf, uint32_t length);
 
 #endif // #if defined(CTR) && (CTR == 1)
 
-#endif //_AES_H_
+#endif //_WEB3_SWIFT_AES_H_

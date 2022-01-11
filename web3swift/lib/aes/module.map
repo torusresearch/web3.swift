@@ -1,4 +1,4 @@
-module aes [system][extern_c] {
-    header "include/aes.h"
+module web3_swift_aes [system][extern_c] {
+    header "include/web3_swift_aes.h"
     export *
 }

@@ -1,4 +1,4 @@
-module keccaktiny [system][extern_c] {
-  header "include/keccak-tiny.h"
+module web3_swift_keccaktiny [system][extern_c] {
+  header "include/web3_swift_keccak-tiny.h"
   export *
 }
