@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import keccaktiny
+import web3_swift_keccaktiny
 
 public extension Web3Extensions where Base == Data {
     var keccak256: Data {
