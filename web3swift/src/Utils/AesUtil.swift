@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import aes
+import web3_swift_aes
 
 class Aes128Util {
     var key: Data
